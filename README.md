@@ -9,3 +9,8 @@ Cette extension contient :
 - Un shortcode [woo_loi_hamon_formulaire], permettant d'afficher le formulaire de demande de rétractation
 - Un shortcode [woo_loi_hamon_adresse], permettant d'afficher l'adresse postale où envoyer la demande de rétractation
 - Un système automatique qui ajoute les mentions obligatoires sur le choix des paiements
+
+A finir
+========
+- Envoi des conditions de rétractation à chaque commande
+- Envoi de l'email de demande de rétractation
